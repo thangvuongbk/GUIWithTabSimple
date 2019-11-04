@@ -1,0 +1,11 @@
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\bin\Debug\GUIWithTabs.exe.config
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\bin\Debug\GUIWithTabs.exe
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\bin\Debug\GUIWithTabs.pdb
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\obj\Debug\GUIWithTabs.Form1.resources
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\obj\Debug\GUIWithTabs.Properties.Resources.resources
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\obj\Debug\GUIWithTabs.csproj.GenerateResource.Cache
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\obj\Debug\GUIWithTabs.exe
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\obj\Debug\GUIWithTabs.pdb
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\bin\Debug\MetroFramework.Design.dll
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\bin\Debug\MetroFramework.dll
+c:\users\thangvuong\documents\visual studio 2013\Projects\GUIWithTabs\GUIWithTabs\bin\Debug\MetroFramework.Fonts.dll
